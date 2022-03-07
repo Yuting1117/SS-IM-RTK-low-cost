@@ -1,0 +1,10 @@
+
+
+
+Rover station obs file: COM5___19200_220115_000320.zip
+
+Base station obs file: SEPT0152_1s.zip
+Base station nav file: SEPT0152.22P
+
+                                    x-ecef           y-ecef             z-ecef
+Base reference coordination:  -1641890.08105434,-3664879.34459194,4939969.42850734
